@@ -1,3 +1,12 @@
 add branch-1 or add branch-2
+<<<<<<< HEAD
 deleted this file on branch-1
 
+=======
+<<<<<<< HEAD
+add more changes
+
+=======
+clear more data
+>>>>>>> branch-1
+>>>>>>> master
